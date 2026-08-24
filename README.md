@@ -193,7 +193,4 @@ Fokus evaluasi juga dapat diberikan pada Shipping Mode dan jadwal pengiriman, ka
 👩‍💻 Author
 
 Lisa Damayanti
-41524010002
-S1 Teknik Informatika
-Universitas Mercu Buana
-2025/2026
+

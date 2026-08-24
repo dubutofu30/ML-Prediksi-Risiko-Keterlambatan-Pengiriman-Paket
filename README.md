@@ -38,8 +38,8 @@ Dataset yang digunakan adalah DataCo Smart Supply Chain, yang berisi data transa
 Target
 
 Nilai| Keterangan
-"0"| Tidak Terlambat
-"1"| Terlambat
+"0" -> Tidak Terlambat
+"1" -> Terlambat
 
 ---
 

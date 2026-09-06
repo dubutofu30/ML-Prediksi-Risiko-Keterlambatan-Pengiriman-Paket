@@ -190,7 +190,3 @@ Fokus evaluasi juga dapat diberikan pada Shipping Mode dan jadwal pengiriman, ka
 
 ---
 
-👩‍💻 Author
-
-Lisa Damayanti
-
